@@ -100,8 +100,8 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-0\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Bewerbung</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Lebenslauf</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-0\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Bewerbung</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Lebenslauf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -157,8 +157,8 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-0\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Bewerbung</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Lebenslauf</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-0\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Bewerbung</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Lebenslauf</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -201,7 +201,7 @@
                 "title": "Bewerbung",
                 "contentAlign": "right",
                 "text": "Guten Tag  Herr Beckert,\n<br>in Ihrem Team möchte ich gerne Erfahrungen aus dem Alltag eines Helden &nbsp;sammeln.  Site Point  ist mir auf der Suche nach einer geeigneten Stelle für mein Schulpraktikum aufgefallen. Freundliche Tippgeberin war Frau Braunberger von index-consult.\n<br>Der Webauftritt von Site Point hat mich sofort angesprochen und so kommt es, dass ich mir hier den Beginn meiner Heldenreise erhoffe. Ein Start soll meine achtwöchige Unterstützung als Helfer sein, die vom 28.05. bis zum 20.07.2018 ausgeführt wird.  Dies findet im Rahmen des Schuljahres 2018/ 2019 der Höheren Berufsfachschule für IT-Systeme an der Berufsbildenden Schule I -Technik in Kaiserslautern statt. Dort werde ich im Sommer 2019 mit der Fachhochschulreife (schulischer Teil) und als staatlich geprüfter Assistent für IT-Systeme meinen Abschluss machen. Von da an könnte die Reise mit einer Ausbildung zum Fachinformatiker oder zu einem Studium der Informatik (FH) weiterführen. Zurzeit lernen wir erst mal als Grundlage die Programmiersprache C++ und arbeiten mit dem Raspberry Pi 3. Meine bisherigen Leistungen sind überwiegend gut.<br> <br>Der Weg geht in diese Richtung weiter -&gt;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Home</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a>  ",
                 "overlay": true
               },
               {
@@ -224,7 +224,7 @@
                 "showTitle": true,
                 "title": "Was ich mitbringe",
                 "contentAlign": "right",
-                "text": "Für die Aufgaben als Helfer bei Ihnen kann ich ein paar Stärken einbringen. So bin ich meine Aufgaben sehr zuverlässig, verantwortungsbewusst und präzise angegangen.<br>Mit mir gewinnt Site Point einen Heldenanwärter im Praktikum, der flexibel, motiviert und teamorientiert ist.&nbsp;<br>Außerdem habe ich mir in schulischen und eigenen Projekten insbesondere ein gutes Urteilsvermögen, hohe Lernbereitschaft und viel Kreativität aneignen können.<br>&nbsp;| &nbsp;<br>Für den Weg zum Lebenslauf nach unten scrollen v&nbsp;",
+                "text": "Für die Aufgaben als Helfer bei Ihnen kann ich ein paar Stärken einbringen. So bin ich meine Aufgaben sehr zuverlässig, verantwortungsbewusst und präzise angegangen.<br>Mit mir gewinnt Site Point einen Heldenanwärter im Praktikum, der flexibel, motiviert und teamorientiert ist.&nbsp;<br>Außerdem habe ich mir in schulischen und eigenen Projekten insbesondere ein gutes Urteilsvermögen, hohe Lernbereitschaft und viel Kreativität aneignen können.<br>&nbsp;| &nbsp;<br>Für den Weg zum Lebenslauf weiter mit dem Button \"Lebenslauf\"&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
                 "overlay": true
               }
@@ -281,8 +281,8 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-0\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Bewerbung</a></li> ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Lebenslauf</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-0\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">Bewerbung</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Lebenslauf</a></li>",
           "logo": {
             "image": {
               "active": true,
