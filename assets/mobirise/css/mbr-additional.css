@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
+
+
+#header4-0 H1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 32px;
+}
+#header4-0 P {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 22px;
+}
+#header4-0 .btn {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 22px;
+}
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+
+#menu-9 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-9.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-9 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#slider-d DIV {
+  text-align: right;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 21px;
+}
+#slider-d P {
+  color: #cccccc;
+  font-size: 18px;
+}
+
+
+
+#menu-a .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-a .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#content1-f P {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+}
+#content5-e .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #28324e;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+}
+#content5-e .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-e .mbr-article {
+  color: #fff;
+}
+#content5-e .mbr-article P {
+  font-size: 21px;
+  font-family: 'Ubuntu', sans-serif;
+  color: #28324e;
+}
