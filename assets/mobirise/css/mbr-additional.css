@@ -2,6 +2,8 @@
 
 
 
+
+
 #header4-0 H1 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 32px;
@@ -21,8 +23,18 @@
   background: #2c2c2c;
 }
 #menu-2 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #efefef;
 }
+#menu-2 .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+}
+#menu-2 .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 15px;
+}
+
+
 
 #menu-9 .mbr-brand__name {
   font-size: 16px;
@@ -31,7 +43,15 @@
   background: #2c2c2c;
 }
 #menu-9 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #efefef;
+}
+#menu-9 .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+}
+#menu-9 .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 15px;
 }
 #slider-d DIV {
   text-align: right;
@@ -45,6 +65,8 @@
 
 
 
+
+
 #menu-a .mbr-brand__name {
   font-size: 16px;
 }
@@ -52,7 +74,15 @@
   background: #2c2c2c;
 }
 #menu-a .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #efefef;
+}
+#menu-a .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+}
+#menu-a .mbr-brand__name a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 15px;
 }
 #content1-f P {
   font-family: 'Ubuntu', sans-serif;
