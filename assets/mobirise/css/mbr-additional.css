@@ -2,8 +2,6 @@
 
 
 
-
-
 #header4-0 H1 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 32px;
@@ -23,90 +21,5 @@
   background: #2c2c2c;
 }
 #menu-2 .mbr-navbar__hamburger {
-  color: #efefef;
-}
-#menu-2 .mbr-navbar__items a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 14px;
-}
-#menu-2 .mbr-brand__name a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 15px;
-}
-
-
-
-#menu-9 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-9.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-9 .mbr-navbar__hamburger {
-  color: #efefef;
-}
-#menu-9 .mbr-navbar__items a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 14px;
-}
-#menu-9 .mbr-brand__name a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 15px;
-}
-#slider-d DIV {
-  text-align: right;
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 21px;
-}
-#slider-d P {
-  color: #cccccc;
-  font-size: 18px;
-  text-align: left;
-}
-#slider-d H1 {
-  text-align: left;
-}
-
-
-
-
-
-#menu-a .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-a.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-a .mbr-navbar__hamburger {
-  color: #efefef;
-}
-#menu-a .mbr-navbar__items a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 14px;
-}
-#menu-a .mbr-brand__name a {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 15px;
-}
-#content1-f P {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 16px;
-}
-#content5-e .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #28324e;
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 30px;
-}
-#content5-e .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-e .mbr-article {
-  color: #fff;
-}
-#content5-e .mbr-article P {
-  font-size: 21px;
-  font-family: 'Ubuntu', sans-serif;
-  color: #28324e;
+  color: #ffffff;
 }
